@@ -11,7 +11,9 @@ Artificial Intelligence (AI) and Machine Learning (ML) are the new disruptive te
 This study compares the three different forms of  *archanas* i.e., *Puja*, *Aarti* and *Chalisa* to better understand their thematic similarities and differences. A case study approach is used, thus *archana* literature of Parshvanath *Bhagwan* is used for this study.
 
 ## Methodology
-The methodology for the study could be divided into five main steps namely, data collection, theme selection, prompt engineering and AI analysis, expert review and data analysis. The first step in the study is data collection. The relevant literature on Parshvanath *Bhagwan archana* is collected using purposive sampling approach. The next step is theme selection, which selected the themes used for comparing the sample literature. 
+The methodology for the study could be divided into five main steps namely, data collection, theme selection, prompt engineering and AI analysis, expert review and data analysis. The first step in the study is data collection. The relevant literature on Parshvanath *Bhagwan archana* is collected using purposive sampling approach. 
+
+The next step is theme selection, which selected the themes used for comparing the sample literature using expert judgement. An expert devotee from the JSOT, Toronto temple was consulted and explained the purpose of this study. Accordingly, the expert suggested the themes based on primary understanding expected from the devotees.   
 
 ## Results and Discussion
 ### *Data collection*
