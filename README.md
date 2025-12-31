@@ -1,7 +1,8 @@
 # Comparative analysis of Jain *Bhagwan* Parshvanath Digamber Archana using AI and ML
 <p align="center">
   Rahi Jain
-(30 December, 2025)
+
+  (30 December, 2025)
   </p>
 ## Background
 In Digamber Jain tradition, God (*Bhagwan*) *archana* forms an important part of practicing the religion. However, many devotees, especially younger generation, may struggle to comprehend the meaning and importance of performing *archana*. Further, existence of different forms of *archana* like *Puja*, *Aarti* and *Chalisa* only adds to the complexity of comprehending the practice.
