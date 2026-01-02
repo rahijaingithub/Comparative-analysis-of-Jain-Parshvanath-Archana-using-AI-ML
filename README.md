@@ -1,4 +1,4 @@
-# Comparative analysis of Jain *Bhagwan* Parshvanath Digamber *archana* using AI and ML
+# Comparative analysis of *Bhagwan* Parshvanath Digamber Jain *archana* using AI and ML
 <p align="center">
   Rahi Jain <br> (Project Duration: Sep-Dec'2025, Publication date: 30 December, 2025)
 </p>
