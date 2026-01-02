@@ -30,7 +30,15 @@ The study created zero-shot prompts with persona. The prompt was designed for th
 * Prompt 2: Assume that you are an expert in identifying the main themes. What are the top five ritual themes contained in this content from a Digamber Jain perspective? Please note that if number of ritual themes are less than five than mention less than five ritual themes. Only ritual themes must be strictly mentioned. If no ritual themes are mentioned then you should say no ritual themes are mentioned.
 * Prompt 3: Assume that you are an expert in identifying the main themes. What are the top five motivation or intention themes contained in this content from a Digamber Jain perspective? Please note that if number of motivation or intention themes are less than five than mention less than five motivation or intention themes. Only motivation or intention themes must be strictly mentioned. If no motivation or intention themes are mentioned then you should say no motivation or intention themes are mentioned.
 
+These prompts were provided to the AI model in Chatpdf tool for each document separately. The AI model analyszed the document based on the prompt and provided the results. A sample result of AI response for the motivation theme in the *puja* form of *archana* is shown below.
 
+" *The top five motivation or intention themes contained in this content from a Digamber Jain perspective are: <br> 1. Attainment of Liberation (मोक्ष): The primary goal is to achieve salvation or liberation from the cycle of birth and death (भव-पार), and never forget this ultimate aim. <br>
+2. Destruction of Karma: A core motivation is to destroy all types of karma (असुकम, अषकमव, मोह-ध्ं ा), which is seen as essential for spiritual purity and liberation. <br>
+3. Attainment of Happiness and Prosperity: Devotees seek increased happiness, wealth, good family relations (पुत-वमत्), and comfort in this life.<br>
+4. Devotion and Service to the Lord: There is a strong intention to always serve the revered Lord Parshwanath (प् शवस् थ देव सेव आपक् करँ सद्), expressing deep reverence and dedication.<br>
+5. Purity and Removal of Worldly Sorrows: Worship is undertaken with the intention of becoming pure and eliminating all worldly sorrows and suffering (दु:ख सब ि् य भ् वा व् पे सवह वका ह्).* "
+
+The model was able to provide the top five ideas related to motivation in *puja* document. It also tries to provide the reference text from the document which it used to arrive at those ideas. However, idea two (Destruction of karma) and five (Purity and removal of wordly sorrows) are redundant. Further, it indicates that the AI model can provide the same idea using different words. Thus, it suggests the need for human review and processing to improve the accuracy of the results.
 
 ### *Expert Review*
 
