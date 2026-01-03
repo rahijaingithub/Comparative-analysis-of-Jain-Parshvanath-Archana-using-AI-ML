@@ -46,10 +46,10 @@ The expert reviewed the responses of the AI model. Overall an average accuracy o
 Further, it is found that same idea could be presented with similar terms in different responses. For example: AI model identified the similar idea of devotion and service for the motivation theme in all three forms of *archana* but with different words. The words used in *Puja*, *Aarti* and *Chalisa* to provide the ideas are "*Devotion and Service to the Lord*", "*Profound Devotion and Unwavering Faith (Bhakti and Nishtha)*" and "*Devotion, Protection, and Service to the Enlightened*" respectively.
 
 The expert reviewed and processed the AI responses. The common ideas are aggregated into single ideas while out of scope ideas are discarded. The themes identified across the three documents is given below:
-* The virtue themes are
-* The ritual themes are
-* The motivation themes are
+* The virtue themes are compassion, detached, enlightened, equanimity, generous, protector, pure, spiritual guide and steadfastness.
+* The ritual themes are mantra recitation, meditation, offering, prayers and worship, prostration, purification, service and vows.
+* The motivation themes are alleviate suffering, compassion, devotion and service, enlightenment, liberation, purification, refuge, revenge and worldly well-being.
 
-### *Data Analysis*
+### *Comparative Analysis of Different Archana*
 
 ## Conclusion
