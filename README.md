@@ -52,14 +52,35 @@ The expert reviewed and processed the AI responses. The common ideas are aggrega
 
 ### *Comparative Analysis of Different Archana*
 The different *archana* are compared with each other to understand the similarity and differences among them. A hierarchical clustering of three *archana* types is performed using eculidean distance metric and Ward linkage method which group the *archana* to minimize the intra group variability. The clustering analysis of three *archana* types (Figure 1) indicates that thematically *Puja* and *Aarti* are more similar to each other than *Chalisa*. The similarity between *Puja* and *Aarti* primarily arise from virtue themes. 
+<p align="center">
 <img width="1198" height="900" alt="image" src="https://github.com/user-attachments/assets/16278fbc-f5f5-4aa1-8e98-838bb57f87a3" />
+</p>
 <p align="center">
   Figure 1: Cluster analysis of different *archana* types 
 </p>
 
 *Aarti* and *Puja* share three common virtues namely compassion, generous and spiritual guide but *Chalisa* only share compassion virtue with other *archana* types (Table 1). The virtue theme suggests that *Aarti* focuses on inner qualities (like compassion, generous, protector, and spiritual guide) of Parshvanath *Bhagwan* that are more aligned towards direct benefit to the devotees, while *Chalisa* focuses on the qualities (like detached, equanimity and steadfastness) which help Parshvanath *Bhagwan* remove his *karma* and indirectly provide benefit to its devotees. *Puja* have more balanced ditribution of ideas in virtue theme as it focus on inner qualities that have both direct (like compassion, generous and spiritual guide) and indirect (like pure and enlightened) benefit to the devotees. 
+<p align="center">
+  Table 1: Virtue theme in different archana types 
+</p>
+<p align="center">
+<img width="632" height="243" alt="image" src="https://github.com/user-attachments/assets/44ca9c77-6b77-4fdb-b29d-a4e41100e78f" />
+</p>
 
-*Puja* and *Chalisa* share three common rituals namely offering, prayers and worship, prostration but *Aarti* only share prayers and worship ritual with other *archana* types. The ritual theme suggests that all three *archana* types primarily focuses on practices (like mantra recitation, offering, prayers and worship, prostration, purification and service) that are direct expression of reverence to Parshvanath *Bhagwan* and indirectly focuses on one's soul. However, *Puja* and *Chalisa* also focus on certain practices which focuses on practices (like meditation by *Puja* and vows by *Chalisa* ) that directly focuses on one's soul.
+*Puja* and *Chalisa* share three common rituals namely offering, prayers and worship, prostration but *Aarti* only share prayers and worship ritual with other *archana* types (Table 2). The ritual theme suggests that all three *archana* types primarily focuses on practices (like mantra recitation, offering, prayers and worship, prostration, purification and service) that are direct expression of reverence to Parshvanath *Bhagwan* and indirectly focuses on one's soul. However, *Puja* and *Chalisa* also focus on certain practices which focuses on practices (like meditation by *Puja* and vows by *Chalisa* ) that directly focuses on one's soul.
+<p align="center">
+  Table 2: Ritual theme in different archana types 
+</p>
+<p align="center">
+<img width="632" height="219" alt="image" src="https://github.com/user-attachments/assets/829e26a0-6b9e-4728-b484-86505978d6c3" />
+</p>
 
-In case of motivation, *Puja* and *Chalisa* share three common intentions namely devotion and service, liberation and worldly well-being, but *Aarti* only share devotion and service, and liberation with other two. The motivation theme suggests that 
+In case of motivation, *Puja* and *Chalisa* share three common intentions namely devotion and service, liberation and worldly well-being, but *Aarti* only share devotion and service, and liberation with other two (Table 3). The motivation theme suggests that *Aarti* and *Puja* are more inclined towards spiritual intentions of devotees (like devotion and service, enlightenment, liberation and purification) as compared to worldly intentions of devotees (like alleviate suffering, refuge and worldly well-being). *Chalisa* is more inclined to intentions (like compassion, revenge futility and worldly well-being) that could help devotee more directly with worldly needs. 
+<p align="center">
+  Table 3: Motivation theme in different archana types 
+</p>
+<p align="center">
+<img width="632" height="243" alt="image" src="https://github.com/user-attachments/assets/20d91e12-2ef5-42ce-9d7a-6f50cf4f5a4e" />
+</p>
+
 ## Conclusion
