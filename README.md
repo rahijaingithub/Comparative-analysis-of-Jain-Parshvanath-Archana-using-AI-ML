@@ -55,9 +55,7 @@ The different *archana* are compared with each other to understand the similarit
 <p align="center">
 <img width="1198" height="900" alt="image" src="https://github.com/user-attachments/assets/16278fbc-f5f5-4aa1-8e98-838bb57f87a3" />
 </p>
-<p align="center">
-  Figure 1: Cluster analysis of different *archana* types 
-</p>
+<p align="center"> Figure 1: Cluster analysis of different archana types </p>
 
 *Aarti* and *Puja* share three common virtues namely compassion, generous and spiritual guide but *Chalisa* only share compassion virtue with other *archana* types (Table 1). The virtue theme suggests that *Aarti* focuses on inner qualities (like compassion, generous, protector, and spiritual guide) of Parshvanath *Bhagwan* that are more aligned towards direct benefit to the devotees, while *Chalisa* focuses on the qualities (like detached, equanimity and steadfastness) which help Parshvanath *Bhagwan* remove his *karma* and indirectly provide benefit to its devotees. *Puja* have more balanced ditribution of ideas in virtue theme as it focus on inner qualities that have both direct (like compassion, generous and spiritual guide) and indirect (like pure and enlightened) benefit to the devotees. 
 <p align="center">
